@@ -1,0 +1,14 @@
+Hello!
+
+When we run the index.html file,
+
+  The first page displays 2 buttons 1)Add Details
+				    2)Check Details
+  When we click on "add details" button,1)it says to enter the number of items
+					2)it says to enter the price of the items
+  When we click on "check details" button, it displays the total price of the items added.
+
+
+
+Thank you!
+Brinda S Kokilamath
