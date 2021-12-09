@@ -1,0 +1,16 @@
+Hello!
+
+Firstly when the run index.html file a page is displayed wherein the navigation bar contains 2 buttons.
+	1)index- when we click on this ,the home page is diaplsyed
+	2)editor- when we click on this ,the page wherein we can add our blog is displayed.
+
+
+We can add our posts or blogs in the "post article here" page.
+
+After the blog is successfully added it is shown in home page.
+
+
+Thank you!
+Brinda S Kokilamath
+
+		
