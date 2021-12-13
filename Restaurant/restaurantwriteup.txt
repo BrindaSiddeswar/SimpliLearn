@@ -1,0 +1,15 @@
+Hello!
+
+When we run the index.html file, home page of the restaurant website is diaplayed.
+In the navigation bar there are 3 buttons namely,
+	1)Home
+	2)Menu
+	3)Contact Us
+
+When we click on "Home",The home page is only displayed
+When we click on "Menu", Menu page is displayed with different food menu in it.
+When we click on "Contact-us", the contact page is displayed wherein we also fill the feedback form in it.
+
+
+Thank you!
+Brinda.S.Kokilamath
