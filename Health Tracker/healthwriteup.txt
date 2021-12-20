@@ -1,0 +1,14 @@
+						             ---------------Health Tracker----------------
+
+
+
+I developed code for Health tracker as per the requirments. 
+Flow of the program is as follows:
+   1. I have taken the input from the user for Name, Age, Sex, Weight,Height for the regisration.
+   2. Based on the height and weight of the user we calculate BMI.
+   3. I have converted the Steps to KM and hour to minutes in order to find the fastest speed, longest distance, shortest distance, slowest speed
+   4. Finally the output is displayed a per the requirements.  
+
+
+Thank you!
+Brinda.S.Kokilamath
