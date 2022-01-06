@@ -1,0 +1,15 @@
+1. Find the number of employees who failed in term 1 (pass mark = 37)
+
+> db.siddeshwar.find({"term1":{$lt:37}}).count()
+
+2. Find the average score of employees for term 1
+
+> db.siddeshwar.aggregate([{$group:{'_id':'term1',average:{$avg:'$term1'}}}])
+
+3. Find employees who passed in all three terms
+
+> db.siddeshwar.find({"term1":{$gt:37},"term2":{$gt:37},"term3":{$gt:37}}).pretty().count()
+
+4. Find the average score of employees
+
+db.siddeshwar.aggregate([{$group:{'_id':'term1',average:{$avg:'$term1'}}},{$group:{'_id':'term2',average:{$avg:'$term2'}}},{$group:{'_id':'term3',average:{$avg:'$term3'}}}])
