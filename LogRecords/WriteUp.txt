@@ -1,0 +1,18 @@
+Brinda S KokilaMath.
+
+
+Steps to excute the project:
+
+
+1. In order to create a package.json file we have to execute npm init command
+2. npm install readfile-sync to create the readfile sync module
+3. Write the functions in the LogRecord.js file
+4. Get input from the user and display results according to the inputs
+
+
+
+Thank you!
+
+
+
+
